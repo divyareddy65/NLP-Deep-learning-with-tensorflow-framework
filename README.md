@@ -1,2 +1,2 @@
-# NLP-Deep-learning-with-tensorflow-framework
+# NLP-ALS-Deep-learning-with-tensorflow-framework
 Sign Language Detection
